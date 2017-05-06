@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="Fail User Login.html">Unsuccessful Login attempt</a></td></tr>
+<tr><td><a href="Pass User Login.html">Successful Login attempt</a></td></tr>
+<tr><td><a href="Fail Admin Login.html">Unsuccessful Admin Login</a></td></tr>
+<tr><td><a href="Pass Admin Login.html">Successful Admin Login</a></td></tr>
+<tr><td><a href="Pass Supplier Login.html">Successful Supplier Login</a></td></tr>
+<tr><td><a href="Failed Supplier Login.html">Unsuccessful Supplier Login</a></td></tr>
+<tr><td><a href="Login and Flight.html">User Login and Flight Search from BWI to MKE</a></td></tr>
+<tr><td><a href="Tour to Wishlist.html">User Adding a tour to their wishlist</a></td></tr>
+<tr><td><a href="User Change Password.html">User Changing their password</a></td></tr>
+<tr><td><a href="Admin Adding a Tour.html">Admin Adding a New Tour</a></td></tr>
+</tbody></table>
+</body>
+</html>
